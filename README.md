@@ -6,6 +6,6 @@
 - Point de départ et d'arrivée aléatoire.
 - cliquez sur les directions de votre choix, modifiez les si besoins en cliquant sur votre tableau de direction et enfin lancez le script.
 
-######Javascript
+##### Javascript
 ##### HTML
 ##### CSS
