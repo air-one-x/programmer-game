@@ -294,18 +294,18 @@ let game = {
         modal.style.display = 'block';
 
         if (resultat.textContent == ">") {
-            modal.style.backgroundImage = "url(docs/giphy.gif)";
+            modal.style.backgroundImage = "url(game/docs/giphy.gif)";
             message.textContent = "BRAVO!";
-            let audio = new Audio('docs/bravo.mp3');
+            let audio = new Audio('game/docs/bravo.mp3');
             audio.play();
         } else {
-            modal.style.backgroundImage = "url(docs/giphy2.gif)";
+            modal.style.backgroundImage = "url(game/docs/giphy2.gif)";
             message.textContent = "DOMMAGE...";
-            let audio = new Audio('docs/dommage.mp3');
+            let audio = new Audio('game/docs/dommage.mp3');
             audio.play();
         } 
         
-        setTimeout(function () {
+       setTimeout(function () {
             document.location.reload(true);
         }, 2000)
     },
