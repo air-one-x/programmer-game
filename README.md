@@ -6,6 +6,7 @@
 - Point de départ et d'arrivée aléatoire.
 - cliquez sur les directions de votre choix, modifiez les si besoins en cliquant sur votre tableau de direction et enfin lancez le script.
 - Vidéo de démonstration : https://github.com/air-one-x/programmer-game/blob/master/programer_Trim.mp4
+![game_view](game_view.PNG)
 ##### Javascript
 ##### HTML
 ##### CSS
